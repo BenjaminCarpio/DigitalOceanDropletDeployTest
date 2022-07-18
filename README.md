@@ -1,3 +1,6 @@
+Using public repository to deploy in droplet using digital ocean and termius
+
+
 Calculator
 ---
 <img src="Logotype primary.png" width="60%" height="60%" />
